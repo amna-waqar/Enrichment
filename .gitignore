@@ -20,3 +20,7 @@ env/
 .pytest_cache/
 *.egg-info/
 .DS_Store
+
+# Internal negotiation materials
+FullEnrich_Meeting_Brief.md
+*_Refund_Evidence.xlsx
