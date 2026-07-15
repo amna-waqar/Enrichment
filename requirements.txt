@@ -1,3 +1,4 @@
 chargebee>=3.25.0
 pandas>=2.0
 python-dotenv>=1.0
+openpyxl>=3.1
